@@ -4,7 +4,6 @@ This Python program demonstrates the creation and manipulation of a **Doubly Lin
 
 
 ##  Aim
-
 To write a Python program that:
 - Implements a **Doubly Linked List**.
 - Allows insertion of elements at the end of the list.
